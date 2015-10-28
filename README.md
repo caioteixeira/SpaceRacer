@@ -1,5 +1,5 @@
 # SpaceRacer
-A Space Game game built with C++ and OpenGL using a entity-component architecture.
+A Space Racer game built with C++ and OpenGL using a entity-component architecture.
 Built as a class project for ITP 380 - Videogame Programming
 
 ![PrintScreen](https://raw.githubusercontent.com/caioteixeira/SpaceRacer/master/SpaceRacer.JPG)
